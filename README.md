@@ -8,7 +8,7 @@
 📦Consultas básicas en la Base de Datos con lenguaje SQL (para DB Testing).
 🚀Actualmente aprendiz de consultas básicas de Webservices: API-REST con POSTMAN (para API Testing).
 
-Habilidades: Test case / Incident report / black box technique / Jira / Java/Test case design
+Habilidades: Test cases / Incident report / black box technique / Jira / Java/Test case design
 
 - 🔭 Estoy trabajando en proyectos de No country y Ideas
 - 🌱 Estoy aprendiendo SQL 
